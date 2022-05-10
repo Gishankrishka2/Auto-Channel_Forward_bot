@@ -30,8 +30,7 @@ This repo is the clone of [CHANNEL AUTOMATIC NS BOT](https://telegram.dog/Autofo
 
 
 ## How to reach Me ?
-<a href="https://telegram.dog/Ns_bot_updates"><img src="https://img.shields.io/badge/Join-Telegram%20Channel-red.svg?logo=Telegram"></a>
-<a href="https://telegram.dog/Ns_Bot_supporters"><img src="https://img.shields.io/badge/Join-Telegram%20Group-blue.svg?logo=telegram"></a>
+<a href="https://telegram.dog/ImGishan"><img src="https://img.shields.io/badge/Join-Telegram%20Channel-red.svg?logo=Telegram"></a>
 
 ## COMMANDS
 ### AVAILABLE COMMANDS 
@@ -56,4 +55,4 @@ about - to know about me
 ## Thanks and credits
 [![saythanks](https://img.shields.io/badge/say-thanks-ff69b4.svg)](https://saythanks.io/to/kennethreitz)
 - [Dan](https://telegram.dog/haskell) for his pyrogram docs
-- [MaheshMalekar](https://telegram.dog/MaheshMalekar) ❤
+- [MaheshMalekar](https://telegram.dog/Imgishan) ❤
